@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/humanetics-test/static/css/main.7a375505.css",
+    "main.js": "/humanetics-test/static/js/main.50e81753.js",
+    "static/js/787.af733dea.chunk.js": "/humanetics-test/static/js/787.af733dea.chunk.js",
+    "index.html": "/humanetics-test/index.html",
+    "main.7a375505.css.map": "/humanetics-test/static/css/main.7a375505.css.map",
+    "main.50e81753.js.map": "/humanetics-test/static/js/main.50e81753.js.map",
+    "787.af733dea.chunk.js.map": "/humanetics-test/static/js/787.af733dea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a375505.css",
+    "static/js/main.50e81753.js"
+  ]
+}
