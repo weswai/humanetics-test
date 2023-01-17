@@ -1,0 +1,36 @@
+.dotDiv {
+    width: 40px;
+    height: 40px;
+    position: relative;
+}
+
+.dot-style {
+    border: 1px solid #fff;
+    border-radius: 50%;
+    width: 25px;
+    height: 25px;
+    background-color: #fff;
+    position: absolute;
+    bottom: 0;
+}
+
+.gr {
+    background-color: green;
+}
+
+
+.rd {
+    background-color: red;
+}
+
+.yw {
+
+    background-color: yellow;
+}
+
+sup {
+    color: #fff;
+    position: absolute;
+    top:0;
+    right:0;
+}
