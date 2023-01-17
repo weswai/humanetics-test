@@ -38,7 +38,21 @@ function App() {
 
   },[state]);
 
+  /* Fetch data from backend api */
+  // const fetchData = async () => {
+  //   const response = await fetch(); /
+  //   const newData = await response.json();
+  //   return newData;
+  // };
+
+
   useEffect(() => {
+    /* Initial Data here*/ 
+    // const initialData = fetchData();
+    // if( initialData !== ""){
+    //   setState(initialData)
+    // }
+
     showDots();
   }, [showDots]);
   

@@ -13,3 +13,8 @@ label {
 textarea {
     margin-bottom: 1.5em;
 }
+
+.btnsGroup {
+    display: flex;
+    justify-content: space-around;
+}
