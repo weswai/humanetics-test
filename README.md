@@ -1,4 +1,4 @@
-## Humanetic Interview Test
+## Humanetic Test
 
 
 ## Installation and Setup Instructions
