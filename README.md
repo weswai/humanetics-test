@@ -1,5 +1,17 @@
 ## Humanetic Test
 
+ An anthropomorphic test device (ATD), — commonly known as a crash test dummy — is a high-precision test instrument used to measure human injury potential in vehicle crashes. Each ATD can potentially comprise hundreds of sensors.
+Problem:
+Need a dashboard to show ATD sensors status.
+- Each numbered dot on ATD represents a sensor.
+- Each Bit-String represents a state. 1=ok, 0=broken of corresponding sensor. First bit corresponds to 1st dot, second to 2nd dot and so on.
+- Input is a List of bit-string. State of sensor can be determined as follows
+o Ok = Green, if all bitstrings has 1s for a corresponding sensor OR
+o Broken = Red, if last bitstring has 0 for a corresponding sensor OR
+o Unstable = Yellow, if bitstrings have 0s and 1s, for a corresponding sensor.
+
+![image](https://user-images.githubusercontent.com/1972730/226458000-00d81772-5739-4cbe-8a29-210ccb68353d.png)
+
 
 ## Installation and Setup Instructions
 
